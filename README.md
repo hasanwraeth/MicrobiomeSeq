@@ -11,4 +11,4 @@ Sample Frequency      | Feature Frequency
 
 Sample Frequency after filtering      | Feature Frequency after filtering
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/sample-frequencies2.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/feature-frequencies2.png)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/sample-frequencies-2.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/feature-frequencies-2.png)
