@@ -8,3 +8,7 @@ Microbiome Sequencing analysis using QIIME2.
 Sample Frequency      | Feature Frequency
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/sample-frequencies.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/feature-frequencies.png)
+
+Sample Frequency after filtering      | Feature Frequency after filtering
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/sample-frequencies2.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/feature-frequencies2.png)
