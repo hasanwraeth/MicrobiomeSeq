@@ -43,6 +43,14 @@ Alpha Diversity
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphacomp.jpg)
 
+Faith Phylogenetic Diversity
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/faith.jpg)
+
+Evenness
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/even.jpg)
+
 HCT Regression scatterplots      | HCT Projected Residuals
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals.png)
