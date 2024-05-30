@@ -38,3 +38,20 @@ PCA
 PCA scree plot      | BrayCurtis-Mantel correlation for diversity
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/scree.jpg" width="575">   |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatmap.png" width="675">
+
+Alpha Diversity
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphacomp.jpg)
+
+HCT Regression scatterplots      | HCT Projected Residuals
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals.png)
+
+FMT Regression scatterplots      | FMT Projected Residuals
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals1.png)
+
+FMT Regression scatterplots compared to control      | FMT Projected Residuals compared to control
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot2.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals2.png)
+
