@@ -15,4 +15,4 @@ Sample Frequency after filtering      | Feature Frequency after filtering
 
 Taxonomic composition by Phyla      | Taxonomic composition by Species
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level2bar.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level2bar.png)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level2bar.jpg)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level2bar.jpg)
