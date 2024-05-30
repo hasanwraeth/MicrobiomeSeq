@@ -25,3 +25,4 @@ Taxonomic composition by Genus
 Shannon index            | Sample diversity
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png)
+<img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png" width="675">  |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png" width="675">
