@@ -58,3 +58,7 @@ FMT Regression scatterplots compared to control      | FMT Projected Residuals c
 Weighted Beta Diversity in UMAP projection      | Weighted Beta Diversity in PCoA projection 
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/emperorumap.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/emperorpcoa.png)
+
+Volatility in HCT     | Volatility in FMT 
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vol1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vol2.png)
