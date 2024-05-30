@@ -92,4 +92,8 @@ Model Accuracy for HCT    | Model Accuracy for FMT
 
 Differential abundance   | Differential abundance at Genus level
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff1.png)  |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff2.png" height="250">
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff1.png)  |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff2.png" height="200">
+
+Heatmap of predicted features in sample categories   | Model Accuracy
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatpred.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/pred.png)
