@@ -41,7 +41,7 @@ PCA scree plot      | BrayCurtis-Mantel correlation for diversity
 
 Phylogenetic Tree
 :-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/tree.jpg)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/tree1.jpg)
 
 Alpha Diversity
 :-------------------------:
