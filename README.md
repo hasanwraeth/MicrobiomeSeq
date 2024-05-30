@@ -17,6 +17,6 @@ Taxonomic composition by Phyla
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level2bar.jpg)
 
-Taxonomic composition by Species
+Taxonomic composition by Genus
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level7bar1.jpg)
