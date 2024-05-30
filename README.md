@@ -51,7 +51,7 @@ Evenness
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/even.jpg)
 
-# `PERMANOVA based sample composition analysis`
+### `PERMANOVA based sample composition analysis`
 Distance to BM     | Distance to cord
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/BM.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/cord.png)
