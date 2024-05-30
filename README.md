@@ -29,3 +29,12 @@ Shannon index
 Sample diversity
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png)
+
+## `Beta Rarefaction`
+PCA
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/emperor.png)
+
+PCA scree plot      | BrayCurtis-Mantel correlation for diversity
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/scree.jpg)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatmap.png)
