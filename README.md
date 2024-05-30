@@ -41,6 +41,10 @@ PCA scree plot      | BrayCurtis-Mantel correlation for diversity
 
 Alpha Diversity
 :-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/tree.jpg)
+
+Alpha Diversity
+:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphacomp.jpg)
 
 Faith Phylogenetic Diversity
