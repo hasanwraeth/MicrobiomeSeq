@@ -62,3 +62,15 @@ Weighted Beta Diversity in UMAP projection      | Weighted Beta Diversity in PCo
 Volatility in HCT     | Volatility in FMT 
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vol1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vol2.png)
+
+Feature Volatility in HCT 
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola1.jpg)
+
+Feature Volatility in FMT 
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola2.jpg)
+
+Model Accuracy for HCT    | Model Accuracy for FMT 
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/acc1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/acc2.png)
