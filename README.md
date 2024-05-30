@@ -89,3 +89,7 @@ Feature Volatility in FMT
 Model Accuracy for HCT    | Model Accuracy for FMT 
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/acc1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/acc2.png)
+
+Differential abundance   | Differential abundance at Genus level
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff1.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/diff2.png)
