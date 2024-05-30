@@ -55,3 +55,6 @@ FMT Regression scatterplots compared to control      | FMT Projected Residuals c
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot2.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals2.png)
 
+Weighted Beta Diversity in UMAP projection      | Weighted Beta Diversity in PCoA projection 
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/emperorumap.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/emperorpcoa.png)
