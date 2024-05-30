@@ -65,11 +65,11 @@ Volatility in HCT     | Volatility in FMT
 
 Feature Volatility in HCT 
 :-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola1.jpg)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola1.png)
 
 Feature Volatility in FMT 
 :-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola2.jpg)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/vola2.png)
 
 Model Accuracy for HCT    | Model Accuracy for FMT 
 :-------------------------:|:-------------------------:
