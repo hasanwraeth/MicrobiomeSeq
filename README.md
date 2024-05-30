@@ -37,4 +37,4 @@ PCA
 
 PCA scree plot      | BrayCurtis-Mantel correlation for diversity
 :-------------------------:|:-------------------------:
-<img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/scree.jpg" width="675">   |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatmap.png" width="675">
+<img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/scree.jpg" width="575">   |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatmap.png" width="675">
