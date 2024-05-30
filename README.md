@@ -96,4 +96,4 @@ Differential abundance   | Differential abundance at Genus level
 
 Heatmap of predicted features in sample categories   | Model Accuracy
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatpred.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/pred.png)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/heatpred.png)  |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/pred.png" height="200">
