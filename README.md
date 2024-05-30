@@ -24,4 +24,4 @@ Taxonomic composition by Genus
 ## `Alpha Rarefaction`
 Shannon index            | Sample diversity
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.jpg)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.jpg)
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png)
