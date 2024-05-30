@@ -22,7 +22,10 @@ Taxonomic composition by Genus
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level7bar1.jpg)
 
 ## `Alpha Rarefaction`
-Shannon index            | Sample diversity
-:-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png)
-<img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png" width="675">  |  <img src="https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png" width="675">
+Shannon index
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.png)
+
+Sample diversity
+:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.png)
