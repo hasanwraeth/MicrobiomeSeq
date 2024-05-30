@@ -51,6 +51,14 @@ Evenness
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/even.jpg)
 
+# `PERMANOVA based sample composition analysis`
+Distance to BM     | Distance to cord
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/BM.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/cord.png)
+Distance to PBSC     | HCT Distance to TCD
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/PBSC.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/TCD.png)
+
 HCT Regression scatterplots      | HCT Projected Residuals
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/plot.png)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/residuals.png)
