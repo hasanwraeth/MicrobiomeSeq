@@ -20,3 +20,8 @@ Taxonomic composition by Phyla
 Taxonomic composition by Genus
 :-------------------------:
 ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/level7bar1.jpg)
+
+## `Alpha Rarefaction`
+Shannon index            | Sample diversity
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphashannon.jpg)  |  ![](https://github.com/hasanwraeth/MicrobiomeSeq/blob/main/alphasample.jpg)
